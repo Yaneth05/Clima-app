@@ -1,8 +1,48 @@
-# React + Vite
+### App Clima
+![App clima](src/assets/app_image.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tabla de contenido
+* Acerca de
+* Features
+* Stack
+* Como funciona
+* Empezar
+* Atribuciones
+* Author
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## A cerca de
+App clima es una plataforma web que siver para obtener el status del clima de cualquier ciudad en tiempo real
+
+## Features
+- Ingresa nombre de ciudad
+- Ver resultado del clima
+
+## Stack
+- React
+- Vite
+
+## Como funciona
+App clima funciona mediante el consumo de una API que nos devuelve el resultado del clima del lugar ingresado
+
+## Empezar
+Para iniciar el proyecto primero debes:
+
+1. Descargar el repositorio
+    - git clone $url-del-repositorio
+2. Iniciar el proyecto 
+    - npm run dev
+
+## Atribuciones
+App clima funciona gracias [Wheater API](https://www.weatherapi.com/)
+
+## Author
+- Angela Janeth Cruz Mendoza
+![img author](src/assets/autor.png)
+
+
+
+
+
+
+
